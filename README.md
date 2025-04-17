@@ -15,7 +15,8 @@ Blog app basically aims to write and view the Blog post
    ```bash
    git clone https://github.com/kv13b/Blog_post.git
 5. type **cd my-app** and then run the command **pnpm install**
-6. Create a project in Neon DB and paste your DATABASE_URL in .env
-7. Then type **pnpm dlx prisma db push**
-8. To view and alter the DB locally you can run **pnpm dlx prisma studio**
+6. To start the dev server **pnpm run dev**
+7. Create a project in Neon DB and paste your DATABASE_URL in .env
+8. Then type **pnpm dlx prisma db push**
+9. To view and alter the DB locally you can run **pnpm dlx prisma studio**
    
