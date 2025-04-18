@@ -19,4 +19,5 @@ Blog app basically aims to write and view the Blog post
 7. Create a project in Neon DB and paste your DATABASE_URL in .env
 8. Then type **pnpm dlx prisma db push**
 9. To view and alter the DB locally you can run **pnpm dlx prisma studio**
+10. Create an account in kinde and copy and paste your kinde credentials in .env 
    
