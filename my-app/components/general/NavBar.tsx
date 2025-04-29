@@ -9,7 +9,7 @@ import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
 import { useKindeBrowserClient } from "@kinde-oss/kinde-auth-nextjs";
 
 export function NavBar() {
-  const { getUser } = useKindeBrowserClient();
+  const { getUser } = getKindeServerSession();
   const user = getUser();
   return (
     <nav className="py-5 flex items-center justify-between">
