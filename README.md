@@ -1,5 +1,7 @@
 # Blog App
 
+![image](https://github.com/user-attachments/assets/f355832f-5878-4cdf-9f3f-07e2f5eb8342)
+
 Blog app basically aims to write and view the Blog post 
 
 # How to Install
