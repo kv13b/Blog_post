@@ -8,9 +8,6 @@ Blog app basically aims to write and view the Blog post
 2. Right click and select Open in terminal.
 1. Create a folder where you want to store the project.  
 2. Right-click the folder and select **Open in Terminal**.  
-3. Initialize a Git repository:  
-   ```bash
-   git init
 4. Clone the repository
    ```bash
    git clone https://github.com/kv13b/Blog_post.git
